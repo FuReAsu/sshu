@@ -3,3 +3,5 @@ __pycache__
 dist
 .pytest_cache/
 bin
+out
+.agent-files
